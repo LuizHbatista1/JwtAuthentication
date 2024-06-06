@@ -72,4 +72,4 @@ Compile e execute o projeto:
 mvn spring-boot:run
 Acesse a aplicação:
 
-# A aplicação estará disponível em http://localhost:9090.
+## A aplicação estará disponível em http://localhost:9090.
